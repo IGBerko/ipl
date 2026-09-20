@@ -1,0 +1,41 @@
+ItryPublic License (IPL) Version 1.0
+Creator: Itry Team (IGBerko)
+Preamble
+
+The ItryPublic License (IPL) is designed to facilitate the free use, modification, and distribution of software while protecting the rights of the original authors.
+1. Definitions
+
+    Source Code: The human-readable form of the software.
+    Object Code: The form of the software intended for execution on a computer.
+    Derivative Work: Any work based on the Source Code, including modifications and translations.
+
+2. Grant of Rights
+
+    Right to Use: Licensee is granted the right to use the software for any purpose.
+    Right to Modify: Licensee is granted the right to modify the Source Code to create Derivative Works.
+    Right to Distribute: Licensee is granted the right to distribute the Source Code, Object Code, and Derivative Works.
+
+3. Distribution Conditions
+
+    Attribution: All copies or Derivative Works must include attribution information and copyright notices.
+    License Inclusion: The text of the IPL must be included with any distribution.
+    Source Code Availability: When distributing Object Code, the Source Code must also be made available or accessible.
+
+4. Restrictions
+
+    Removal of Notices: It is prohibited to remove or alter copyright notices and license information.
+    Liability: The Licensor is not liable for any damages or losses resulting from the use of the software.
+
+5. Patents
+
+    Patent Rights: Licensor grants Licensee a non-exclusive, worldwide, royalty-free patent license to the extent necessary to use, modify, and distribute the software.
+
+6. Termination
+
+    Violation of Terms: The license automatically terminates in the event of a violation of its terms.
+    Reinstatement: The Licensee may reinstate the license by curing the violation.
+
+7. Miscellaneous
+
+    Jurisdiction: Any disputes arising from this license shall be resolved in accordance with the laws of the Russian Federation.
+    Language: The official language of this license is English.
